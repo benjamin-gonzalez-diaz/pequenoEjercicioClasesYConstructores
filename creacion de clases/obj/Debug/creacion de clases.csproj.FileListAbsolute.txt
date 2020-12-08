@@ -1,0 +1,7 @@
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\bin\Debug\creacion de clases.exe.config
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\bin\Debug\creacion de clases.exe
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\bin\Debug\creacion de clases.pdb
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\obj\Debug\creacion de clases.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\obj\Debug\creacion de clases.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\obj\Debug\creacion de clases.exe
+C:\Users\56984\Desktop\poo\creacion de clases\creacion de clases\obj\Debug\creacion de clases.pdb
